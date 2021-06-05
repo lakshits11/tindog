@@ -1,6 +1,6 @@
-# 🐶 TinDog
+# 🐶 [TinDog](https://tindog-ls.netlify.app/)
 
-Start up landing page for a fictional application named TinDog. TinDog allows the user to find other dogs & their owners nearby in the swipe left/right style made famous by Tinder.
+Start up landing page for a fictional application named TinDog. TinDog allows the user to find other dogs & their owners nearby in the swipe left/right style made famous by Tinder. [Check it here](https://tindog-ls.netlify.app/)
 
 
 ## Built With
@@ -8,6 +8,7 @@ Start up landing page for a fictional application named TinDog. TinDog allows th
   * HTML
   * CSS
   * Bootstrap
+
 
 ## Authors
 
